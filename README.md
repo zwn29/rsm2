@@ -1,2 +1,3 @@
-# rsm2
-resume project using three js
+# ghoust house👻
+
+!['house.png'](house.png)
