@@ -1,3 +1,3 @@
-# ghoust house👻
+# ghost house👻
 
 !['house.png'](house.png)
